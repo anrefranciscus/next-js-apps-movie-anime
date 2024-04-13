@@ -1,0 +1,1 @@
+# next-js-apps-movie-list
